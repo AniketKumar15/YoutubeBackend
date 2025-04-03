@@ -72,7 +72,3 @@ Your backend should now be running on `http://localhost:5000`.
 - **MongoDB**: A great NoSQL database that powers the data storage for this project. [Check out MongoDB](https://www.mongodb.com/).
 
 ---
-
-This version of the README is now more concise and easy to follow, especially for someone setting it up for the first time. If you're not planning on opening the repo to the public, this should work perfectly!
-
-Let me know if you'd like to add or adjust anything else! 😊
